@@ -8,7 +8,7 @@ This repo includes implementations of Sum of Absolute Differences (SAD) and Zero
 
 ---
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
